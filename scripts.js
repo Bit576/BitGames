@@ -90,7 +90,7 @@ document.getElementById("afterEffectsButton").addEventListener("click", function
     var description = "<span style='font-size: 26px; font-weight: bold;'>Adobe After Effects 2024</span><br><br>Adobe After Effects — это мощная программа для создания анимаций, визуальных эффектов и композитинга. Широко используется в кино, телевидении и веб-видео для создания эффектных сцен и анимации объектов.";
     var icon = "photos/Ae.png";
     var img = "photos/ae1.png";
-    var href="https://mega.nz/file/naZTDA7Z#3xU8tMk-c0hiC-d0TeWN0h9Lhy9BN3UAivTxPGXmxjI";
+    var href="https://mega.nz/file/OH4jGZZR#GY2oCFz2PzZhWFVBLYuUsNfTyhRIPx07MaBtA2oYQaA";
     showFullScreenSquare(icon ,description, Color1, Color2, img,href);
 });
 
