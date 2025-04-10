@@ -6,7 +6,7 @@ document.getElementById("photoshopButton").addEventListener("click", function() 
     var description = "<span style='font-size: 26px; font-weight: bold;'>Adobe Photoshop 2024</span><br><br>Adobe Photoshop — это мощное программное обеспечение для редактирования изображений, графического дизайна и цифровой живописи. Оно предлагает передовые инструменты для ретуширования, создания сложных композиций и работы с текстом и графикой. Photoshop широко используется в фотографии, дизайне, анимации и веб-разработке.";
     var icon = "photos/photoshop.png";
     var img = "photos/ps1.png"; 
-    var href="";
+    var href="https://mega.nz/file/KKYVlCYL#KkEBwcP-mL8iuOzV4KhcZHNRmm9PXJ99PQs5U8r2oyw";
     showFullScreenSquare(icon, description, Color1, Color2, img,href);
 });
 
